@@ -2,8 +2,6 @@
 <html lang=:"ru">
 <head>
     <meta charset="UTF-8">
-	
-	<meta http-server>
 </head>
 <body>
    <header>

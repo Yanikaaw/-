@@ -1,5 +1,5 @@
 
-<html lang=:"ru">
+<htmlm>
 <head>
     <meta charset="UTF-8">
 </head>

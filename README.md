@@ -4,24 +4,6 @@
     <meta charset="UTF-8">
 	<meta name=:"viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-server>
-	<style>
-	    body {
-		    font-family: Bahnschrift;
-			line-height: 1.6;
-			margin: 20px;
-		}
-		nav a {
-		    margin-right: 15px;
-			text-decoration: non;
-			color: blue:
-	    }
-		nav a:hover {
-		    text-decoration: underline;
-		}
-		section {
-		    margin: 20px;
-		}
-	   </style>
 </head>
 <body>
    <header>
